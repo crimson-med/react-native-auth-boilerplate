@@ -32,6 +32,9 @@ If the server is running locally on your machine to access `localhost` from the 
 
 `http://10.0.2.2:8080` instead of `http://127.0.0.1:8080`
 
+## Screens
+
+![Login Gif](https://raw.githubusercontent.com/crimson-med/react-native-auth-boilerplate/master/screen/login.gif)
 ## Credits
 
 [Mederic Burlet](http://medericburlet.com)
